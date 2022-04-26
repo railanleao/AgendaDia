@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgendaDia", "AgendaDia\AgendaDia.csproj", "{D691B4B4-1696-49D0-AE81-DFC45D2BB1C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D691B4B4-1696-49D0-AE81-DFC45D2BB1C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D691B4B4-1696-49D0-AE81-DFC45D2BB1C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D691B4B4-1696-49D0-AE81-DFC45D2BB1C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D691B4B4-1696-49D0-AE81-DFC45D2BB1C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE81FD06-45A4-4CBD-B7DF-8C38B9A598F0}
+	EndGlobalSection
+EndGlobal
